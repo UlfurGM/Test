@@ -1,2 +1,2 @@
 # Test
-Solo un test para ver como funciona esto de GitHub
+En este repositorio iré metiendo mis pruebas en java de lo que voy aprendiendo.
